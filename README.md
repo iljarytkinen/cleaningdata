@@ -13,7 +13,7 @@ This repository contains all files, necessary to complete "Getting and Cleaning 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-###PREPARATIONS
+### PREPARATIONS
 script starts with the `PREPARATIONS` section where it downloads the source data zip file, extracts it and reads all data into appropriate variables
 
 ### 1. Step
